@@ -3,7 +3,7 @@
 client_id = "1cdc6bcfc3ef965a615cdcd56aeb0854"
 name = "Condi-Ship"
 handle = "condi-ship"
-application_url = "https://ill-comprehensive-hunting-parameter.trycloudflare.com"
+application_url = "https://myth-diesel-widely-serving.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://ill-comprehensive-hunting-parameter.trycloudflare.com/auth/callback",
-  "https://ill-comprehensive-hunting-parameter.trycloudflare.com/auth/shopify/callback",
-  "https://ill-comprehensive-hunting-parameter.trycloudflare.com/api/auth/callback"
+  "https://myth-diesel-widely-serving.trycloudflare.com/auth/callback",
+  "https://myth-diesel-widely-serving.trycloudflare.com/auth/shopify/callback",
+  "https://myth-diesel-widely-serving.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]

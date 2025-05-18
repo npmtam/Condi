@@ -1,9 +1,9 @@
 import React from 'react';
 import AppLayout from '../layout/AppLayout';
-import WelcomeSection from './WelcomeSection';
+import BlogsSection from './BlogsSection';
 import OnboardingSection from './OnboardingSection';
 import RulesSection from './RulesSection';
-import BlogsSection from './BlogsSection';
+import WelcomeSection from './WelcomeSection';
 
 const HomePage: React.FC = () => {
   return (
